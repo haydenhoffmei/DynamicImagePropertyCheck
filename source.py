@@ -1,8 +1,7 @@
 #-------------------------------------------------------------------------------
 # Comparing Properties
 #
-# To use this script, fill in the necessary global variables and uncomment the
-# function you would wish to run in the main function.
+# This script can be run through the command line.
 #
 # Hayden Hoffmeister  -  v1.5   7/8/25
 #-------------------------------------------------------------------------------
